@@ -1,0 +1,2 @@
+tabula==1.0.5
+tabula_py==2.3.0
